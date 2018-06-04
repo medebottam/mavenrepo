@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Mindtree Minds!! Welcome to DevOps session day 1!!" );
+        System.out.println( "Hello Mindtree Minds!! this is a test demo!!!!!!" );
     }
 }
