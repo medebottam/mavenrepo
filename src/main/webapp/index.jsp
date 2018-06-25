@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Tomcat on Docker!</h2>
+<h2>Hello Tomcat and Jfrog and CICD!</h2>
 </body>
 </html>
